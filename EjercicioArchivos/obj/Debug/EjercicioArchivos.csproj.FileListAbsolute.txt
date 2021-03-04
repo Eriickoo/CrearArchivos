@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2015\Projects\EjercicioArchivos\EjercicioArchivos\bin\Debug\EjercicioArchivos.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\EjercicioArchivos\EjercicioArchivos\bin\Debug\EjercicioArchivos.exe
+c:\users\alumno\documents\visual studio 2015\Projects\EjercicioArchivos\EjercicioArchivos\bin\Debug\EjercicioArchivos.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\EjercicioArchivos\EjercicioArchivos\obj\Debug\EjercicioArchivos.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\EjercicioArchivos\EjercicioArchivos\obj\Debug\EjercicioArchivos.exe
+c:\users\alumno\documents\visual studio 2015\Projects\EjercicioArchivos\EjercicioArchivos\obj\Debug\EjercicioArchivos.pdb
